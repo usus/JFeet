@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.projectusus.jfeet.feature_0.1.0.qualifier.jar" id="org.projectusus.jfeet.feature" version="0.1.0.qualifier">
+      <category name="org.projectusus.jfeet"/>
+   </feature>
+   <category-def name="org.projectusus.jfeet" label="JFeet"/>
+</site>
